@@ -1,7 +1,7 @@
 # 🎯 **ROTEIRO COMPLETO DE APRESENTAÇÃO**
 ## **Sistema de Listas de Compras com Arquitetura de Microsserviços**
 
-**Duração:** 15 minutos  
+**Duração:** 10 minutos  
 **Público:** Desenvolvedores e Acadêmicos  
 **Objetivo:** Demonstrar arquitetura de microsserviços completa com exemplos reais de código
 
@@ -21,7 +21,7 @@
 ### **1. INTRODUÇÃO E CONTEXTO (3 minutos)**
 
 #### **🎯 O que vamos apresentar:**
-> "Hoje vou demonstrar um sistema completo de listas de compras construído com arquitetura de microsserviços. Este é um projeto real implementado para a disciplina DAMD da PUC Minas, que demonstra os conceitos fundamentais de sistemas distribuídos."
+> "Demonstrar um sistema completo de listas de compras construído com arquitetura de microsserviços. Projeto real implementado para a disciplina DAMD, demonstra os conceitos fundamentais de sistemas distribuídos."
 
 #### **📊 Estatísticas do Projeto:**
 - **4 Serviços** independentes (3 microsserviços + 1 gateway)

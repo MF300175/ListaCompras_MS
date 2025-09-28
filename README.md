@@ -148,15 +148,14 @@ lista-compras-microservices/
 │   ├── item-service/          # Catálogo de produtos
 │   └── list-service/          # Listas de compras
 ├── api-gateway/               # Gateway principal
-│   └── Apresenta/            # Materiais de apresentação
-└── Docs/                      # Documentação técnica
+└── Docs/                      # Documentação técnica e apresentação
 ```
 
 ---
 
 ## 📽️ **Materiais de Apresentação**
 
-A pasta `api-gateway/Apresenta/` contém os materiais visuais desenvolvidos para a demonstração do projeto:
+A pasta `Docs/` contém os materiais visuais desenvolvidos para a demonstração do projeto:
 
 ### **Arquivos Disponíveis:**
 - **`Diagrama.jpg`** - Diagrama da arquitetura do sistema de microsserviços
