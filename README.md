@@ -148,8 +148,29 @@ lista-compras-microservices/
 │   ├── item-service/          # Catálogo de produtos
 │   └── list-service/          # Listas de compras
 ├── api-gateway/               # Gateway principal
+│   └── Apresenta/            # Materiais de apresentação
 └── Docs/                      # Documentação técnica
 ```
+
+---
+
+## 📽️ **Materiais de Apresentação**
+
+A pasta `api-gateway/Apresenta/` contém os materiais visuais desenvolvidos para a demonstração do projeto:
+
+### **Arquivos Disponíveis:**
+- **`Diagrama.jpg`** - Diagrama da arquitetura do sistema de microsserviços
+- **`Mind Map -MS.png`** - Mapa mental da estrutura e conceitos de microsserviços
+- **`Microsserviços__O_Mundo_Oculto.mp4`** - Vídeo explicativo sobre microsserviços
+- **`ServiçosSeparados.mp4`** - Demonstração dos serviços funcionando independentemente
+- **`TodosServiços.mp4`** - Vídeo mostrando todos os serviços integrados
+
+### **Objetivo dos Materiais:**
+Estes recursos visuais foram criados para:
+- **Demonstrar a arquitetura** implementada no projeto
+- **Explicar conceitos** fundamentais de microsserviços
+- **Mostrar o funcionamento** prático do sistema
+- **Facilitar a compreensão** dos padrões utilizados
 
 ---
 
